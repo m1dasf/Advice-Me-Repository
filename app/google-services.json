@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757124009691",
+    "firebase_url": "https://advice-me-fmk-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "advice-me-fmk",
+    "storage_bucket": "advice-me-fmk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757124009691:android:afa12b23870afa957046fe",
+        "android_client_info": {
+          "package_name": "com.example.part2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757124009691-irof9tp6p15rba3amc2k9bt16jkfmlon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7SsJ2pv3Dxzk6oEDBRuq7Px2NFtadDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757124009691-irof9tp6p15rba3amc2k9bt16jkfmlon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
